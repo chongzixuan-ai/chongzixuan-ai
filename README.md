@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32">, I'm Sumeet Singh</h1>
-<h3 align="center">Scalable Software Solutions | Cloud Enthusiast | Mentor | Lifelong Learner</h3>
+<h3 align="center">Scalable Software Solutions | AI Enthusiast | Mentor | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" />
@@ -13,7 +13,7 @@
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height= "130";/>
   </animated-image>
 
-- 🔧 Scalable Software Solutions: Architecting and implementing efficient, robust systems.
+- 🔧 Scalable Software Solutions: Architecting and implementing efficient, robust AI systems.
 - 🚀 Cutting-edge Technologies: Continuously exploring and integrating new tech into projects.
 - 🤝 Mentorship & Collaboration: Supporting junior developers and working in high-performing teams.
 
