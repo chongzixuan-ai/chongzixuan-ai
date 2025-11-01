@@ -56,10 +56,10 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🧠 [Matrix Language](https://github.com/chongzixuan-ai/Matrix-Language)      | A human-readable image format that encodes pixel color data as matrix hex values for AI data visualization and interoperability | Python, NumPy, OpenCV |
-| 💬 [Google Gemini UI](https://github.com/chongzixuan-ai/google-gemini-ui)      | A simple, elegant web interface for interacting with Google Gemini models | TypeScript, React, TailwindCSS, Gemini API |
-| ⚙️ [MCP Server Website](https://github.com/chongzixuan-ai/mcp-server-website)      | A modern web interface for multi-client ML service orchestration | Node.js, Next.js, Docker |
-| 🌐 [OpenAI Go Language](https://github.com/chongzixuan-ai/openai-go-language)      | Go-based SDK for interacting with OpenAI APIs | Go, RESTful APIs |
+| 🧠 [Matrix Language](https://github.com/chongzixuan-ai/Matrix-Language)                    | A human-readable image format that encodes pixel color data as matrix hex values for AI data visualization and interoperability | Python, NumPy, OpenCV |
+| 💬 [Google Gemini UI](https://github.com/chongzixuan-ai/google-gemini-ui)                    | A simple, elegant web interface for interacting with Google Gemini models | TypeScript, React, TailwindCSS, Gemini API |
+| ⚙️ [MCP Server Website](https://github.com/chongzixuan-ai/mcp-server-website)                  | A modern web interface for multi-client ML service orchestration | Node.js, Next.js, Docker |
+| 🌐 [OpenAI Go Language](https://github.com/chongzixuan-ai/openai-go-language)                  | Go-based SDK for interacting with OpenAI APIs | Go, RESTful APIs |
 ## 🧭 My Philosophy
 > *“AI systems should not only be intelligent — they should be reliable, interpretable, and aligned with human values.”*
 
