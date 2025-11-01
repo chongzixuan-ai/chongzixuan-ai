@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32">, Chong Zi Xuan</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32">I am Chong ZiXuan</h1>
 <h3 align="center">Senior AI/ML Engineer | Full-Stack Innovator | DevOps Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height= "130";/>
   </animated-image>
 
-- 💼 **Current Role:** Senior AI/ML Engineer — designing and deploying ML systems at scale  
+- 💼 **Current Role:** Senior AI/ML Engineer - designing and deploying ML systems at scale  
 - 🔬 **Focus Areas:** Applied AI, MLOps, Large Language Models (LLMs), and intelligent automation  
 - 🧩 **Core Strengths:** End-to-end ML lifecycle (data → model → deployment → monitoring)  
 - 🌍 **Goal:** To advance AI systems that are ethical, explainable, and production-grade  
